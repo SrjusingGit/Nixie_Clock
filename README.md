@@ -7,3 +7,5 @@ wiringPi is the standard wiring library for the Raspberry Pi
 
 
 Arduino Code uploaded
+
+Added STL and Blender files for Nixie Clock Housing
